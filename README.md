@@ -1,6 +1,6 @@
 # golang-petname
 
-Super convinient name of naming your project directories, continers, etc.
+Super convinient name of naming your project directories, containers, etc.
 
 * Import module https://github.com/dustinkirkland/golang-petname.
 * Example from https://pkg.go.dev/github.com/dustinkirkland/golang-petname
